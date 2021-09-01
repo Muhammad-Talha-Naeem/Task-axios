@@ -7,7 +7,6 @@
                 <td>{{product.price}}</td>
             </tr>
         </table>
-        <h1>hy</h1>
     </div>
 </template>
 <script>
